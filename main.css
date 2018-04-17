@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body {
+  font: 15px Raleway;
+  color: #f0f0f0;
+  background: url('https://u-static.haozhaopian.net/assets/share/uid_bc5ebe0ccecf4e919e8476455b8e1081l/ba3c2720-e4d5-4b54-beab-b292d6c10fd7.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+.container {
+  text-align: center;
+  padding: 100px 0 100px 0;
+}
+span {
+  color: #80ff00;
+}
+br {
+  display: none;
+}
+h3 {
+  padding-top: 10px;
+}
+.location {
+  padding-top: 30px;
+}
+.temperature {
+  font-size: 50px;
+  padding-top: 50px;
+}
+#temp {
+  transition: 1s;
+}
+#cf {
+  font-size: 42px;
+  background: none;
+  color: #f0f0f0;
+  border: none;
+  outline: none;
+  border-radius: 17px;
+  transition: 1s;
+}
+#cf:hover {
+  background: #500030;
+  cursor: pointer;
+  outline: none;
+}
+.options {
+  padding-top: 10px;
+}
+.list-inline-item {
+  padding: 40px;
+}
+@media all and (max-width: 555px) {
+  br {
+    display: inline;
+  };
+}
