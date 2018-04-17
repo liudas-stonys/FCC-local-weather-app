@@ -1,1 +1,2 @@
-# FCC-local-weather-app
+## freeCodeCamp project
+### Local weather app
