@@ -1,2 +1,2 @@
 # freeCodeCamp project
-Online weather app
+Online weather app.
