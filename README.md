@@ -1,2 +1,2 @@
-## freeCodeCamp project
-### Local weather app
+# freeCodeCamp project
+Online weather app
